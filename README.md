@@ -18,11 +18,6 @@ An action-thriller about a retired hitman seeking revenge after losing everythin
 - Loki (Marvel)
 - Peacemaker  
 
-
-###  Summary
-
-| Type | Title | Genre | 
-|------|--------|--------|
-| Movie | **John Wick** | Action / Thriller | 
+---
 
 
