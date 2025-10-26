@@ -14,6 +14,9 @@ An action-thriller about a retired hitman seeking revenge after losing everythin
 -  **Why I like it:** The action scenes are intense, stylish, and perfectly choreographed.
 
 ---
+### Series that I enjoy watching 
+-Loki (Marvel)
+
 
 ###  Summary
 
