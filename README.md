@@ -5,7 +5,7 @@ My first repository
 ---
 
 ###  **Favorite Series: Loki (Marvel Studios)**
-![Loki Poster](https://upload.wikimedia.org/wikipedia/en/0/0a/Loki_%28TV_series%29_logo.png)
+![Loki Poster](https://www.imdb.com/title/tt9140554/)
 
 > “Glorious Purpose.” 
 Loki follows the God of Mischief after the events of *Avengers: Endgame*, exploring time travel, alternate realities, and Loki’s journey of self-discovery.  
