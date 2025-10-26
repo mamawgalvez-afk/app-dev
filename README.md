@@ -15,8 +15,8 @@ An action-thriller about a retired hitman seeking revenge after losing everythin
 
 ---
 ### Series that I enjoy watching 
-- **Loki (Marvel)
-- **Peacemaker  
+- Loki (Marvel)
+- Peacemaker  
 
 
 ###  Summary
