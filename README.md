@@ -5,7 +5,7 @@ My first repository
 ---
 
 ###  **Favorite Series: Loki (Marvel Studios)**
-![Loki Poster](https://www.imdb.com/title/tt9140554/)
+![Loki Poster](https://m.media-amazon.com/images/M/MV5BZjAzYzMxZGUtYmE2Yi00NjU0LWJlNjgtM2MxYmRiMWU3NzA5XkEyXkFqcGdeQXVyMjM4OTc2OTU@._V1_FMjpg_UX1000_.jpg)
 
 > “Glorious Purpose.” 
 Loki follows the God of Mischief after the events of *Avengers: Endgame*, exploring time travel, alternate realities, and Loki’s journey of self-discovery.  
@@ -29,10 +29,10 @@ An action-thriller about a retired hitman seeking revenge after losing everythin
 
 ###  Summary
 
-| Type | Title | Genre | Platform |
-|------|--------|--------|-----------|
-| Series | **Loki** | Action / Fantasy / Sci-Fi | Disney+ |
-| Movie | **John Wick** | Action / Thriller | Cinema / Streaming |
+| Type | Title | Genre | 
+|------|--------|--------|
+| Series | **Loki** | Action / Fantasy / Sci-Fi |
+| Movie | **John Wick** | Action / Thriller | 
 
 ---
 
